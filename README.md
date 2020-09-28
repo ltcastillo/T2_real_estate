@@ -1,5 +1,8 @@
 
-# What’s the question will we answer / topic
+#For Full Presentation please see Google slide link here: [https://docs.google.com/presentation/d/1cWwqKed5WimV2-7tilG8n8RY1jqOYt1-TWfbJ9NX1kg/edit?usp=sharing](https://docs.google.com/presentation/d/1cWwqKed5WimV2-7tilG8n8RY1jqOYt1-TWfbJ9NX1kg/edit?usp=sharing) 
+
+
+# Objective
 
 Based on real estate data, how have home prices in the bay area changed over the years and how can we predict changes to prices in the future?
 
@@ -8,8 +11,7 @@ Create heatmap of the bay areas that reflect trends of the average cost of a hou
 
 # Reason
 
-We want to know how a person should save against a plan to purchase a home in the future (upcoming year, five years, ten years) depending on the zip code, city, and or county.
-
+We want to know how a person should save against a plan to purchase a home in the future depending on the zip code, city, and or county in the SF Bay Area
   
 
 
