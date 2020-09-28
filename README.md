@@ -92,7 +92,7 @@ Zillow: Annual increase in price in terms of percentage against original price, 
 
 # OTHER INFO THAT CAN HELP (ML?)
 
--   Walk score
+Walk score
     
 
  -   API signup: [https://www.walkscore.com/professional/api-sign-up.php](https://www.walkscore.com/professional/api-sign-up.php)
@@ -100,7 +100,7 @@ Zillow: Annual increase in price in terms of percentage against original price, 
 
   
 
--   Airbnb info (only available for San Francisco City/county, San Mateo County, Santa Clara County, Oakland
+Airbnb info (only available for San Francisco City/county, San Mateo County, Santa Clara County, Oakland
     
 
  -   [http://insideairbnb.com/get-the-data.html](http://insideairbnb.com/get-the-data.html)
@@ -109,25 +109,25 @@ Zillow: Annual increase in price in terms of percentage against original price, 
 -   SF
     
 
- -   [http://insideairbnb.com/san-francisco/](http://insideairbnb.com/san-francisco/)
+    -   [http://insideairbnb.com/san-francisco/](http://insideairbnb.com/san-francisco/)
     
 
 -   San Mateo County
     
 
--   [http://insideairbnb.com/san-mateo-county/](http://insideairbnb.com/san-mateo-county/)
+    -   [http://insideairbnb.com/san-mateo-county/](http://insideairbnb.com/san-mateo-county/)
     
 
 -   Santa Clara County
     
 
--   [http://insideairbnb.com/santa-clara-county/](http://insideairbnb.com/santa-clara-county/)
+    -   [http://insideairbnb.com/santa-clara-county/](http://insideairbnb.com/santa-clara-county/)
     
 
 -   Oakland
     
 
--   [http://insideairbnb.com/oakland/](http://insideairbnb.com/oakland/)
+    -   [http://insideairbnb.com/oakland/](http://insideairbnb.com/oakland/)
     
 
   
@@ -139,7 +139,7 @@ Zillow: Annual increase in price in terms of percentage against original price, 
 -   HOME VALUES
     
 
--   Value Forecast
+    -   Value Forecast
     
 
--   Per zip code, city, county in bay area
+       -   Per zip code, city, county in bay area
