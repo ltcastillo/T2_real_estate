@@ -1,4 +1,4 @@
--- Creating tables for T2_real_estate
+-- Table1 for T2_real_estate
 CREATE TABLE zillow (
 	RegionID INT,
 	SizeRank INT,
@@ -305,4 +305,31 @@ CREATE TABLE zillow (
 	"6/30/2020" INT,
 	"7/31/2020" INT,
 	"8/31/2020" INT
+	);
+
+-- Table2 for T2_real_estate
+CREATE TABLE realtordotcom (
+	month_date_yyyymm INT,
+	postal_code INT,
+	zip_name VARCHAR,
+	nielsen_hh_rank DECIMAL,
+	hotness_rank DECIMAL,
+	hotness_rank_mm DECIMAL,
+	hotness_rank_yy DECIMAL,
+	hotness_score DECIMAL,
+	supply_score DECIMAL,
+	demand_score DECIMAL,
+	median_days_on_market DECIMAL,
+	median_days_on_market_mm DECIMAL,
+	median_dom_mm_day DECIMAL,
+	median_days_on_market_yy DECIMAL,
+	median_dom_yy_day DECIMAL,
+	median_dom_vs_us DECIMAL,
+	ldpviews_per_property_mm DECIMAL,
+	ldpviews_per_property_yy DECIMAL,
+	ldpviews_per_property_vs_us DECIMAL,
+	median_listing_price DECIMAL,
+	median_listing_price_mm DECIMAL,
+	median_listing_price_yy DECIMAL,
+	median_listing_price_vs_us DECIMAL
 	);
