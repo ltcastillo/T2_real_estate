@@ -308,7 +308,7 @@ CREATE TABLE zillow (
 	);
 
 -- Table2 for T2_real_estate
-CREATE TABLE realtordotcom (
+CREATE TABLE realtordotcom_hotness_metrics (
 	month_date_yyyymm INT,
 	postal_code INT,
 	zip_name VARCHAR,
@@ -332,4 +332,48 @@ CREATE TABLE realtordotcom (
 	median_listing_price_mm DECIMAL,
 	median_listing_price_yy DECIMAL,
 	median_listing_price_vs_us DECIMAL
+	);
+	
+-- Table3 for T2_real_estate
+CREATE TABLE realtordotcom_core_metrics (
+	month_date_yyyymm INT,
+	postal_code INT,
+	zip_name VARCHAR,
+	flag VARCHAR,
+	median_listing_price DECIMAL,
+	median_listing_price_mm DECIMAL,
+	median_listing_price_yy DECIMAL,
+	active_listing_count DECIMAL,
+	active_listing_count_mm DECIMAL,
+	active_listing_count_yy DECIMAL,
+	median_days_on_market DECIMAL,
+	median_days_on_market_mm DECIMAL,
+	median_days_on_market_yy DECIMAL,
+	new_listing_count DECIMAL,
+	new_listing_count_mm DECIMAL,
+	new_listing_count_yy DECIMAL,
+	price_increased_count DECIMAL,
+	price_increased_count_mm DECIMAL,
+	price_increased_count_yy DECIMAL,
+	price_reduced_count DECIMAL,
+	price_reduced_count_mm DECIMAL,
+	price_reduced_count_yy DECIMAL,
+	pending_listing_count DECIMAL,
+	pending_listing_count_mm DECIMAL,
+	pending_listing_count_yy DECIMAL,
+	median_listing_price_per_square_foot DECIMAL,
+	median_listing_price_per_square_foot_mm DECIMAL,
+	median_listing_price_per_square_foot_yy DECIMAL,
+	median_square_feet DECIMAL,
+	median_square_feet_mm DECIMAL,
+	median_square_feet_yy DECIMAL,
+	average_listing_price DECIMAL,
+	average_listing_price_mm DECIMAL,
+	average_listing_price_yy DECIMAL,
+	total_listing_count DECIMAL,
+	total_listing_count_mm DECIMAL,
+	total_listing_count_yy DECIMAL,
+	pending_ratio DECIMAL,
+	pending_ratio_mm DECIMAL,
+	pending_ratio_yy DECIMAL
 	);
