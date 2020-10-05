@@ -377,3 +377,13 @@ CREATE TABLE realtordotcom_core_metrics (
 	pending_ratio_mm DECIMAL,
 	pending_ratio_yy DECIMAL
 	);
+
+-- Table4 for T2_real_estate
+CREATE TABLE bayarea_zipcodes (
+	PO_NAME VARCHAR,
+	the_geom VARCHAR,
+	ZIP INT,
+	STATE VARCHAR,
+	Area__ DECIMAL,
+	Length__ DECIMAL
+	);
