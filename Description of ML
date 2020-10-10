@@ -18,5 +18,5 @@ Data was split in to training and testing sets based on sklearn.model_selection.
 ✓ Explanation of model choice,
 including limitations and benefits
 SMOTE oversamppling and LogisticRegression are used for model.
-Limitations:
-Benefits:
+Limitations: Vulnerability to outliers. If the neiborhood's value is extrem, selected samples may not be accurate.
+Benefits: Increase samples for minority groups. Reduce the risk of oversampling.
