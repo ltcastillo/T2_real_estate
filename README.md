@@ -1,6 +1,6 @@
- # For Full Segments Two Presentation [Click Here](https://docs.google.com/presentation/d/1lN10Uj4I-czZft_0L5pLwD7m3BB2kn2HeqIRLskl-gI/edit?usp=sharing) 
+ # For Full Segment Two Presentation [Click Here](https://docs.google.com/presentation/d/1lN10Uj4I-czZft_0L5pLwD7m3BB2kn2HeqIRLskl-gI/edit?usp=sharing) 
 
-  # For Full Segment One Presentation please see Google slide link here: [https://docs.google.com/presentation/d/1cWwqKed5WimV2-7tilG8n8RY1jqOYt1-TWfbJ9NX1kg/edit?usp=sharing](https://docs.google.com/presentation/d/1cWwqKed5WimV2-7tilG8n8RY1jqOYt1-TWfbJ9NX1kg/edit?usp=sharing) 
+  # For Full Segment One Presentation [Click Here](https://docs.google.com/presentation/d/1cWwqKed5WimV2-7tilG8n8RY1jqOYt1-TWfbJ9NX1kg/edit?usp=sharing) 
 
 
 # Objective
