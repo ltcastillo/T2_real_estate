@@ -13,13 +13,6 @@ Create heatmap of the bay areas that reflect trends of the average cost of a hou
 # Reason
 
 We want to know how a person should save against a plan to purchase a home in the future depending on the zip code, city, and or county in the SF Bay Area
-  
-
-
-  
-
-# Database
-Database tool: PostgreSQL > Schema > T2_real_estate
 
 Bay Area defined as these counties:
 * Alameda
@@ -32,7 +25,13 @@ Bay Area defined as these counties:
 * Solano
 * Sonoma
 
-Data Sources:
+
+# Database
+PostgreSQL
+* Schema: T2_real_estate
+* See ERD for table fields and joins
+
+Data Sources
 * Data.Gov
     * Data type: Bay Area ZIP Codes
     * Link: https://catalog.data.gov/dataset/bay-area-zip-codes/resource/6cacd1a1-6bff-4c7c-9094-49188ea29f85
@@ -44,7 +43,7 @@ Data Sources:
     * Data type: Inventory - Monthly, Market Hotness -> ZIP
     * Period: 07/2016 - 08/2020 (monthly)
     * Link: https://www.realtor.com/research/data/ 
-* See ERD for table fields and joins
+    
 
 # OTHER INFO THAT CAN HELP (ML?)
 
