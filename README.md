@@ -152,3 +152,27 @@ Team meets as much as four times a week via Zoom: Tuesday Class, Wednesday Late 
 Team has a dedicated channel in slack for all communications regarding the project. 
 Team relies on on a mixture of the Segment’s Rubric, Google slide decks, and Checklists to make sure we are on track with criteria
 
+Machine Learning Description
+✓ Description of preliminary data preprocessing
+Supervised machine learning-factor analysis is based on Zillow home value and Realtor.com factors.
+Preprocessing for Zillow includes: Select only 2016 to 2020 August home value amounts, calculate yearly home value increase, delete NA value, change yearly increase amounts 
+from columns to rows, add incr and decr type based on the value increase amounts.
+Preprocessing for Realtor.com includes: only include Year to Year changes, only include 2016 to 2020 August factors. 
+
+✓ Description of preliminary feature
+engineering and preliminary feature
+selection, including their decisionmaking
+process
+Preliminary feature includes: active_listing_count_yy, median_days_on_market_yy, new_listing_count_yy,pending_ratio_yy. These are key factors that would affect house price based on 
+realtor website. And as we only study year to year factors, only year to year change is included. Choosing each Aug data would avoid seasonal reasons.
+
+✓ Description of how data was split
+into training and testing sets
+Data was split in to training and testing sets based on sklearn.model_selection.
+
+✓ Explanation of model choice,
+including limitations and benefits
+SMOTE oversamppling and LogisticRegression are used for model.
+Limitations: Vulnerability to outliers. If the neiborhood's value is extrem, selected samples may not be accurate.
+Benefits: Increase samples for minority groups. Reduce the risk of oversampling.
+
