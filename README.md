@@ -26,7 +26,9 @@ Bay Area defined as these counties:
 * Sonoma
 
 
-# Datasources
+# Data
+
+Database
 * PostgreSQL
     * Schema: T2_real_estate
     * See ERD for table fields and joins
