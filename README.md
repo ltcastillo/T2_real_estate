@@ -34,17 +34,17 @@ Bay Area defined as these counties:
 
 Data Sources:
 * Data.Gov
- * Data type: Bay Area ZIP Codes
- * Link: https://catalog.data.gov/dataset/bay-area-zip-codes/resource/6cacd1a1-6bff-4c7c-9094-49188ea29f85
+    * Data type: Bay Area ZIP Codes
+    * Link: https://catalog.data.gov/dataset/bay-area-zip-codes/resource/6cacd1a1-6bff-4c7c-9094-49188ea29f85
 * Zillow
- * Date type: ZHVI All Homes (SFR, Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted($) -> ZIP Code
- * Period: 1/31/1996 - 8/31/2020 (monthly)
- * Link: https://www.zillow.com/research/data/ 
+    * Date type: ZHVI All Homes (SFR, Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted($) -> ZIP Code
+    * Period: 1/31/1996 - 8/31/2020 (monthly)
+    * Link: https://www.zillow.com/research/data/ 
 * Realtor.com
- * Data type: Inventory - Monthly, Market Hotness -> ZIP
- * Period: 07/2016 - 08/2020 (monthly)
- * Link: https://www.realtor.com/research/data/ 
-* See ERD for further details on tables and joins
+    * Data type: Inventory - Monthly, Market Hotness -> ZIP
+    * Period: 07/2016 - 08/2020 (monthly)
+    * Link: https://www.realtor.com/research/data/ 
+* See ERD for table fields and joins
 
 # OTHER INFO THAT CAN HELP (ML?)
 
