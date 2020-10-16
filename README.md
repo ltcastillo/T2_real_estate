@@ -28,12 +28,12 @@ Bay Area defined as these counties:
 
 # Data
 
-Database
+### Database
 * PostgreSQL
     * Schema: T2_real_estate
     * See ERD for table fields and joins
 
-Data Sources
+### Data Sources
 * Data.Gov
     * Data type: Bay Area ZIP Codes
     * Link: https://catalog.data.gov/dataset/bay-area-zip-codes/resource/6cacd1a1-6bff-4c7c-9094-49188ea29f85
