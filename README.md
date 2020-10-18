@@ -205,7 +205,7 @@ We have already trained our model with our samples and change factors to see how
 ✓ Description of current accuracy score
 
 If there are four factors: active_listing_count_yy, median_days_on_market_yy, new_listing_count_yy,pending_ratio_yy, accuracy score is as follows:
-                  pre       rec       spe        f1       geo       iba       sup
+                   pre       rec       spe        f1       geo       iba       sup
 
        Decr       0.35      0.32      0.89      0.33      0.53      0.27        19
   Huge_Decr       0.05      1.00      0.84      0.10      0.92      0.85         1
