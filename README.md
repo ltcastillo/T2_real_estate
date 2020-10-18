@@ -106,7 +106,7 @@ Team meets as much as four times a week via Zoom: Tuesday Class, Wednesday Late 
 Team has a dedicated channel in slack for all communications regarding the project. 
 Team relies on on a mixture of the Segment’s Rubric, Google slide decks, and Checklists to make sure we are on track with criteria
 
-Machine learning description
+# Machine learning description
 ✓ Description of data preprocessing
 
 Supervised machine learning-factor analysis is based on Zillow home value and Realtor.com factors. Preprocessing for Zillow includes: Select only 2015 to 2020 August home value amounts, calculate yearly home value increase, delete NA value, change yearly increase amounts from columns to rows, add incr and decr type based on the value increase amounts. Preprocessing for Realtor.com includes: only include Year to Year changes factors, only include 2016 to 2020 July factors.
