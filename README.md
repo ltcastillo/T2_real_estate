@@ -152,7 +152,7 @@ Team meets as much as four times a week via Zoom: Tuesday Class, Wednesday Late 
 Team has a dedicated channel in slack for all communications regarding the project. 
 Team relies on on a mixture of the Segment’s Rubric, Google slide decks, and Checklists to make sure we are on track with criteria
 
-Machine Learning Description
+# Machine learning description
 
 ✓ Description of data preprocessing
 
