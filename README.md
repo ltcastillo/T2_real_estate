@@ -43,56 +43,25 @@ Bay Area defined as these counties
 -   Sonoma
     
 
-  
+# Data
 
-Bay Area Counties, Cities, zip codes info
-    
+### Database
+* PostgreSQL
+    * Schema: T2_real_estate
+    * See ERD for table fields and joins
 
--   [https://data.sfgov.org/Geographic-Locations-and-Boundaries/Bay-Area-ZIP-Codes/u5j3-svi6](https://data.sfgov.org/Geographic-Locations-and-Boundaries/Bay-Area-ZIP-Codes/u5j3-svi6)
-    
-
-  
-Google Maps (for heat map overlay +Geo data)
-    
-
--   [https://developers.google.com/maps/documentation](https://developers.google.com/maps/documentation)
-    
-
-  
-
-Zillow: Annual increase in price in terms of percentage against original price, changes to price yearly, info on real estate.
-    
-
--   Source: [https://www.zillow.com/research/data/](https://www.zillow.com/research/data/)
-    
-
--   Relevant info:
-    
-
--   HOME VALUES
-    
-
--   All Homes
-    
-
--   Per zip code, city, county in bay area
-    
-
--   Bedroom Series 1-5+
-    
-
--   Per zip code, city, county in bay area
-    
-
--   For Sale price?
-    
-
--   INVENTORY AND SALES
-    
-
--   For Sale inventory
-    
-
+### Data Sources
+* Data.Gov
+    * Data type: Bay Area ZIP Codes
+    * Link: https://catalog.data.gov/dataset/bay-area-zip-codes/resource/6cacd1a1-6bff-4c7c-9094-49188ea29f85
+* Zillow
+    * Date type: ZHVI All Homes (SFR, Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted($) -> ZIP Code
+    * Period: 1/31/1996 - 8/31/2020 (monthly)
+    * Link: https://www.zillow.com/research/data/ 
+* Realtor.com
+    * Data type: Inventory - Monthly, Market Hotness -> ZIP
+    * Period: 07/2016 - 08/2020 (monthly)
+    * Link: https://www.realtor.com/research/data/ 
   
 
 # OTHER INFO THAT CAN HELP (ML?)
