@@ -198,4 +198,14 @@ If there are two factors: median_days_on_market_yy, pending_ratio_yy, accuracy s
 
 avg / total       0.60      0.48      0.79      0.53      0.61      0.36       121
 
+In the factor 2 supervised machine learning. We only have two types. Increase and decrease. Accuracy of Increase has been improved. But it seems that decrease prediction is still not good.
+                   pre       rec       spe        f1       geo       iba       sup
+
+       Decr       0.31      0.60      0.73      0.41      0.66      0.43        20
+       Incr       0.90      0.73      0.60      0.81      0.66      0.45       101
+
+avg / total       0.80      0.71      0.62      0.74      0.66      0.44       121
+
 The supervised machine learning is more good at predicing increase type and it turns out the two factors: median_days_on_market_yy, pending_ratio_yy are more relative and new listing factors seem not to be relative.
+
+
