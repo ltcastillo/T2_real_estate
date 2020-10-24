@@ -208,4 +208,8 @@ avg / total       0.80      0.71      0.62      0.74      0.66      0.44       1
 
 The supervised machine learning is more good at predicing increase type and it turns out the two factors: median_days_on_market_yy, pending_ratio_yy are more relative and new listing factors seem not to be relative.
 
+**The Link to the Dashboards**
 
+[link to dashboard](https://public.tableau.com/profile/yanet.mora.perez#!/vizhome/Project_16035093599770/Dashboard1?publish=yes)
+
+[link to dashboard](https://public.tableau.com/profile/yanet.mora.perez#!/vizhome/Project_16035093599770/Dashboard2?publish=yes)
